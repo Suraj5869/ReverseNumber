@@ -13,12 +13,14 @@ namespace ReversedNumber.Models
             int divisor = 10;
             int temp = number;
             int output = 0;
+            int multiple = 10;
+            int min = 0;
 
-            while (temp > 0)
+            while (temp > min)
             {
                 int digit = temp % divisor;
                 temp = temp / divisor;
-                output = output * 10 + digit;
+                output = output * multiple + digit;
             }
             return output;
         }

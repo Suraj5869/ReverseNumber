@@ -12,3 +12,4 @@ C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\o
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.pdb
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.genruntimeconfig.cache
 C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ref\ReversedNumber.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.sourcelink.json
