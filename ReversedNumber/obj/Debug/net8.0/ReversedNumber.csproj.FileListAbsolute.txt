@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\bin\Debug\net8.0\ReversedNumber.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\bin\Debug\net8.0\ReversedNumber.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\bin\Debug\net8.0\ReversedNumber.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\bin\Debug\net8.0\ReversedNumber.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\bin\Debug\net8.0\ReversedNumber.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\refint\ReversedNumber.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ReversedNumber.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\ReversedNumber\ReversedNumber\obj\Debug\net8.0\ref\ReversedNumber.dll
